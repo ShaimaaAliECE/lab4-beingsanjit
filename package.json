@@ -1,0 +1,22 @@
+{
+  "name": "se3316lab4",
+  "version": "1.0.0",
+  "description": "\"# lab4-beingsanjit\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaimaaAliECE/lab4-beingsanjit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaimaaAliECE/lab4-beingsanjit/issues"
+  },
+  "homepage": "https://github.com/ShaimaaAliECE/lab4-beingsanjit#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
